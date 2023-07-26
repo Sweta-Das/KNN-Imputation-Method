@@ -1,12 +1,11 @@
 # KNN-Imputation-Method
-------------------------------------------------------------------------------------------------------------------------------
 - K-Nearest Neighbor imputation <br/>
 - a method used to fill missing values in a dataset by using the values of its K-nearest neighbors <br/>
 - leverages the similarity between data points to estimate the missing values <br/>
 - widely used in data pre-processing, especially in continuous or numerical data <br/>
 <br/>
-## Steps in KNN imputation method
-------------------------------------------------------------------------------------------------------------------------------
+
+## Steps in KNN imputation method <br/>
 1. Identify missing values <br/>
 2. Calculate similarity or distance between data points <br/>
     - Common distance metric: Euclidean distance, Manhattan Distance, or Pearson correlation, etc. <br/>
