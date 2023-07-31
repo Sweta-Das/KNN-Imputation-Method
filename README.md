@@ -31,3 +31,4 @@
 💡 KNN imputation is computationally more intensive, especially for large datasets, as it calculates distances between data points. Thus, it might not be the most efficient choice for very large datasets.
 
 </aside>
+Ref : https://machinelearningmastery.com/knn-imputation-for-missing-values-in-machine-learning/
